@@ -13,7 +13,7 @@ Sam Ludford is a musician, artist and programmer based in Brighton. He studied M
 He then moved into software development building iOS and Android apps for tech agencies and start-ups in London, later becoming a freelancer.
 </p>
 <p>
-In 2014 he moved to Brighton where he began to develop his art practice, became involved in the local scene and started performing music and live visuals at gigs. He now works in diverse media, using software such as Ableton Live, Resolume, and Processing, as well as photography to create artworks marrying sound, image and space.
+In 2014 Sam moved to Brighton where he began to develop his art practice, became involved in the local scene and started performing music and live visuals at gigs. He now works in diverse media, using software such as Ableton Live, Resolume, and Processing, as well as photography to create artworks marrying sound, image and space.
 </p>
 
 <br/>
