@@ -1,7 +1,7 @@
 ---
 layout: portfolio
 title: sam ludford
-description: creative code / sound art
+description: sound / image / code
 ---
 
 {% for project in site.portfolio %}

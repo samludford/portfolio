@@ -1,28 +1,33 @@
 ---
 layout: page
-title: about
+title: bio
 permalink: /about/
 ---
 
 <img class="col one right" src="/img/prof_pic.jpg">
 
-<br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder.
-
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them.
-
+<p>
+Sam Ludford is a musician, artist and programmer based in Brighton. He studied Mathematics at the University of Leeds before going on to complete an MSc in Mathematical Logic and the Theory of Computation at the University of Manchester in 2010, writing his dissertation on the links between open problems in the fields of model theory and computational complexity.
+</p>
+<p>
+He then moved into software development building iOS and Android apps for tech agencies and start-ups in London, later becoming a freelancer.
+</p>
+<p>
+In 2014 he moved to Brighton where he began to develop his art practice, became involved in a grassroots electronic music collective and started performing music and live visuals. He now works in diverse media, using software such as Ableton Live, Resolume, and Processing, as well as photography to create artworks marrying sound, image and space.
+</p>
 
 <br/>
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
-	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
+	<a href="mailto:sam_ludford@yahoo.co.uk"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://github.com/samludford" target="_blank"><i class="fa fa-github-square"></i></a>
+	<a href="https://instagram.com/samludford" target="_blank"><i class="fa fa-instagram"></i></a>
+	<a href="https://soundcloud.com/samludford" target="_blank"><i class="fa fa-soundcloud"></i></a>
+	<a href="https://samludford.bandcamp.com" target="_blank"><i class="fa fa-bandcamp"></i></a>
+	<a href="https://vimeo.com/user33006557" target="_blank"><i class="fa fa-vimeo-square"></i></a>
 </span>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
+
 </div>
