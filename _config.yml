@@ -1,7 +1,7 @@
 # Site settings
 title: Sam Ludford
 email: sam_ludford@yahoo.co.uk
-description: sound / image / code
+description: sound image code
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
 # twitter_username: twitter_username
