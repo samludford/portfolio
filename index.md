@@ -4,7 +4,7 @@ title: sam ludford
 description: sound / image / code
 ---
 
-{% for project in site.portfolio %}
+{% for project in site.portfolio reversed %}
 
 {% if project.redirect %}
 <div class="project">
