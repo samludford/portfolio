@@ -1,14 +1,14 @@
 ---
 layout: post
-title: live @ beep collective, the verdict
-description: live @ beep collective, the verdict
+title: live performance, the verdict
+description: live performance, the verdict
 img: /img/alight.jpg
 date: 2015-09-20
 ---
 
-A semi-improvised live set performed at a Beep Collective event in The Verdict, Brighton.
+The performance was recorded at the The Verdict Jazz Café during a gig organised by Beep, a Brighton based arts collective providing a platform for electronic and experimental musicians with an emphasis on live performance.
 
-The performance draws on elements from ambient music, drone, techno and Hindu mantra.
+The set was partially improvised using an Ableton Push controller, and draws on elements from ambient music, drone, techno and Hindu mantra.
 
 <br/>
 
