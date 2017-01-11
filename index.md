@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: sam ludford
+title: Sam Ludford
 description: sound / image / code
 ---
 

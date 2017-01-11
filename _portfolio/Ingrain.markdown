@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ingrain
-description: ingrain
+title: Ingrain
+description: Ingrain
 img: /img/ingrain.jpg
 date: 2016-12-20
 ---

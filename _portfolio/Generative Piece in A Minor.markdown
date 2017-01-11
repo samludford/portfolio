@@ -1,7 +1,7 @@
 ---
 layout: post
-title: generative piece in a minor
-description: generative piece in a minor
+title: Generative Piece in A Minor
+description: Generative Piece in a Minor
 img: /img/patterns.jpg
 date: 2016-02-20
 ---
