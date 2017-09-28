@@ -2,7 +2,7 @@
 layout: post
 title: Ingrain
 description: Ingrain
-img: /img/ingrain.jpg
+img: /img/ingrain-sm.jpg
 date: 2016-12-20
 ---
 
