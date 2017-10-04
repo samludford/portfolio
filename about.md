@@ -4,7 +4,7 @@ title: Bio
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/prof_pic-sm.jpg">
+<img class="col one right" src="/img/prof_pic.jpg">
 
 <p>
 Sam Ludford is a musician, artist and programmer based in Brighton. He studied Mathematics at the University of Leeds before going on to complete an MSc in Mathematical Logic and the Theory of Computation at the University of Manchester in 2010, writing his dissertation on the links between open problems in the fields of model theory and computational complexity.
@@ -25,7 +25,8 @@ In 2014 Sam moved to Brighton where he began to develop his art practice, became
 	<a href="https://instagram.com/samludford" target="_blank"><i class="fa fa-instagram"></i></a>
 	<a href="https://soundcloud.com/samludford" target="_blank"><i class="fa fa-soundcloud"></i></a>
 	<a href="https://samludford.bandcamp.com" target="_blank"><i class="fa fa-bandcamp"></i></a>
-	<a href="https://vimeo.com/user33006557" target="_blank"><i class="fa fa-vimeo-square"></i></a>
+	<!-- <a href="https://vimeo.com/user33006557" target="_blank"><i class="fa fa-vimeo-square"></i></a> -->
+	<a href="https://twitter.com/slufd" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
 
 <div class="col three caption">
