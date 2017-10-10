@@ -3,6 +3,9 @@ layout: post
 title: Test Blog Post 2
 description: Test Blog Post 2
 date: 2017-01-11
+tags:
+  - art
+  - theory
 ---
 
 In a talk given on the Greenland Cruise conference on consciousness in 2014 Philip Goff describes two bitter pills which must, he argues, be swallowed by anyone who subscribes to ‘pure physicalism’, according to which “completed physics will give us one day the complete fundamental picture of reality” [4:19], an ontological view which Goff sees as the natural elongation of the weaker epistemological view that “we should look to and only to the physical sciences to tell us what fundamental reality is like” [2:55].
