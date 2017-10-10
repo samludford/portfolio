@@ -34,7 +34,9 @@ Display tags.
   {% endfor %}
 </ul>
 
+<br>
 <hr>
+<br>
 
 <!--
 List post titles under each tag.
@@ -45,12 +47,15 @@ List post titles under each tag.
       <h3 id="{{ tag_name }}">
         {{ tag_name | capitalize | replace: "_", " " }}
       </h3>
-
-      {% for post in site.tags[tag_name] %}
-        <a href="{{ post.url | prepend: baseurl }}">
-          {{ post.title }}
-        </a>
-      {% endfor %}
+      <br>
+      <li>
+        {% for post in site.tags[tag_name] %}
+          <ul>
+            <a href="{{ post.url | prepend: baseurl }}">{{ post.title }}</a>
+          </ul>
+        {% endfor %}
+      </li>
     </div>
+    <br>
   {% endfor %}
 </section>

@@ -1,12 +1,13 @@
 ---
-layout: blogpage
+layout: blog
 title: Blog
-description: this is where the blog feed goes
+description: main blog feed
+permalink: /blog/
 ---
 
 <!-- <br/> -->
 
-{% for post in site.blog reversed %}
+{% for post in site.posts %}
 
 {% if post.redirect %}
 
