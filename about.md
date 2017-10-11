@@ -4,7 +4,7 @@ title: Bio
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/prof_pic.jpg">
+<img class="col one right" src="/img/prof_pic-sm.jpg">
 
 <p>
 Sam Ludford is a musician, artist and programmer based in Brighton. He studied Mathematics at the University of Leeds before going on to complete an MSc in Mathematical Logic and the Theory of Computation at the University of Manchester in 2010, writing his dissertation on the links between open problems in the fields of model theory and computational complexity.

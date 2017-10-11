@@ -2,7 +2,7 @@
 layout: post
 title: Live Performance, The Verdict
 description: Live Performance, The Verdict
-img: /img/alight.jpg
+img: /img/alight-sm.jpg
 date: 2015-09-20
 ---
 
