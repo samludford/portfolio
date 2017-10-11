@@ -10,6 +10,6 @@ The performance was recorded at the The Verdict Jazz Café during a gig organise
 
 The set was partially improvised using an Ableton Push controller, and draws on elements from ambient music, drone, techno and Hindu mantra.
 
-<br/>
+<br />
 
 {% include soundcloud.html type="track" id="226446059" %}
