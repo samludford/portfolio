@@ -69,7 +69,7 @@ $on-laptop:        800px;
 /**
  *  Meta data line below post title
  */
-.post-meta {
+.post-tag-space {
   display: block;
   margin-top: -.3rem;
   margin-bottom: 1rem;
@@ -93,4 +93,8 @@ $on-laptop:        800px;
     display: inline-block;
     @include post-tag(1.0rem);
   }
+}
+
+.link-list {
+  list-style:none;
 }
