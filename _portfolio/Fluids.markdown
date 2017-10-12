@@ -2,7 +2,7 @@
 layout: post
 title: Fluid Phase
 description: Fluid Phase
-img: /img/rust_2-sm.jpg
+img: /img/rust_2.jpg
 date: 2016-06-20
 ---
 
