@@ -34,8 +34,8 @@ description: sound / image / code
         <div class="thumbnail blankbox"></div>
         {% endif %}    
         <span>
-            <h1></h1>
-            <br/>
+            <!-- <h1></h1> -->
+            <!-- <br/> -->
             <p>{{ project.description }}</p>
         </span>
         </a>
