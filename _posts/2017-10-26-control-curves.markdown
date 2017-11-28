@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Sketch &#58; Control Curves
-description: Experiments with Control Curves
-date: 2017-10-26
+title: Control Curves
+description: Breaking radial symmetry with Perlin noise in openFrameworks
+date: 2017-10-11
 tags:
   - creative code
+  - openFrameworks
 
 ---
 
@@ -45,6 +46,4 @@ tags:
 </div>
 <br />
 
-The openFrameworks project for this app can be <a href="https://github.com/samludford/control_curves">found on github</a>.
-
-<!-- {% include vimeo.html id="239990807" %} -->
+<u>Code</u>: <a href="https://github.com/samludford/control_curves">https://github.com/samludford/control_curves</a>.

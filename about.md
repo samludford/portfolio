@@ -1,34 +1,11 @@
 ---
-layout: page
-title: Bio
-permalink: /about/
+title: About
+permalink: about/
+profile: true
 ---
 
-<img class="col one right" src="/img/prof_pic-sm.jpg">
+I'm an artist working primarily with code. Currently I'm studying for an MA in Computational Art at Goldsmith's College in London, and much of what appears on this blog is coursework related.
 
-<p>
-Sam Ludford is a musician, artist and programmer based in Brighton. He studied Mathematics at the University of Leeds before going on to complete an MSc in Mathematical Logic and the Theory of Computation at the University of Manchester in 2010, writing his dissertation on the links between open problems in the fields of model theory and computational complexity.
-</p>
-<p>
-He then moved into software development building iOS and Android apps for tech agencies and start-ups in London, later becoming a freelancer.
-</p>
-<p>
-In 2014 Sam moved to Brighton where he began to develop his art practice, became involved in the local scene and started performing music and live visuals at gigs. He now works in diverse media, using software such as Ableton Live, Resolume, and Processing, as well as photography to create artworks marrying sound, image and space.
-</p>
+Originally I studied mathematics at university, and later worked as a freelance mobile developer for tech agencies and start-ups. My arts practice began with electronic and experimental music. An introduction to visual art came through involvement with the Brighton music scene, where I often performed VJ sets at club nights.
 
-<br/>
-<hr/>
-<br/>
-<span class="contacticon center">
-	<a href="mailto:sam_ludford@yahoo.co.uk"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com/samludford" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://instagram.com/samludford" target="_blank"><i class="fa fa-instagram"></i></a>
-	<a href="https://soundcloud.com/samludford" target="_blank"><i class="fa fa-soundcloud"></i></a>
-	<a href="https://samludford.bandcamp.com" target="_blank"><i class="fa fa-bandcamp"></i></a>
-	<!-- <a href="https://vimeo.com/user33006557" target="_blank"><i class="fa fa-vimeo-square"></i></a> -->
-	<a href="https://twitter.com/slufd" target="_blank"><i class="fa fa-twitter-square"></i></a>
-</span>
-
-<div class="col three caption">
-
-</div>
+Now I incorporate computational techniques to work in a range of media, including sound, image, video, animation and physical objects. 

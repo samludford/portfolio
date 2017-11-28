@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Computational Aesthetics
-description: A reflective summary of Computational Aesthetics, a paper by Patricia Clough.
+description: Reflective summary of Patricia Clough's Computational Aesthetics
 date: 2017-10-10
 tags:
   - theory

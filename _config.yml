@@ -1,28 +1,43 @@
-# Site settings
-title: Sam Ludford
-email: sam_ludford@yahoo.co.uk
-description: sound image code
-baseurl:  # the subpath of your site, e.g. /blog/
-url:  # the base hostname & protocol for your site
-# twitter_username: twitter_username
-github_username:  samludford
+name: Sam Ludford
+description: sound - image - code
+meta_description: sound - image - code
 
-# Build settings
+aboutPage: true
+
 markdown: kramdown
-gems:
-  - jekyll-paginate
+highlighter: rouge
 
-# highlighter: pygments
+gems: [jekyll-paginate]
+plugins_dir: [jekyll-paginate]
+paginate: 20
+domain_name: 'http://samludford.github.io'
+google_analytics: 'UA-XXXXXXXX-X'
+disqus: false
+disqus_shortname: 'your-disqus-shortname'
 
-# Pagination
-paginate: 15
-paginate_path: "/blog/page:num/"
+# Details for the RSS feed generator
+url:            'http://samludford.github.io'
+author:         'Sam Ludford'
+# authorTwitter:  'YourTwitterUsername'
 
+permalink:       /:year/:title/
 
-collections:
-  portfolio:
-    output: true
-    permalink: /portfolio/:path/
-  blog:
-    output: true
-    permalink: /blog/:path/
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post

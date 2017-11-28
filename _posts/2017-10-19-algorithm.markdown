@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Algorithm
-description: A reflective summary of Algorithm, Andrew Goffey's entry in the Software Studies lexicon.
+description: Reflective summary of Andrew Goffey's Algorithm entry in the Software Studies lexicon
 date: 2017-10-19
 tags:
   - theory
@@ -24,7 +24,7 @@ Statements draw attention to the total discourse in which they operate, what lie
 
 In mustering this cluster of concepts Goffey encourages us to regard algorithms in the same spirit of openness, to recognise their capacity to perform new functions in new contexts. Included by accident in a release build, the debug feature becomes a security backdoor. Artists can exploit this openness by recontextualising algorithms in subversive ways, disrupting their normal use to foreground aspects of the discourses they inhabit which usually remain tacit.
 
-<hr><br>
+<hr>
 <i>References:</i>
 1. Andrew Goffey, <i>Algorithm</i>. <a href="http://dm.ncl.ac.uk/courseblog/files/2010/02/softwarestudies.pdf">Software Studies</a> pp.15-20
 2. Michel Foucault, <i>The Archaeology of Knowledge</i>. Routledge edition pp.89-98

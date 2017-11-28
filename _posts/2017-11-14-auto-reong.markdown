@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Autoreong Project
-description: Concept for an experimental instrument inspired by Balinese gamelan.
+title: Autoreong
+description: Concept for a gamelan inspired experimental instrument
 date: 2017-11-14
 tags:
   - physical computing
@@ -21,10 +21,10 @@ The chimes will be mounted on a perspex box housing the solenoids, which strike 
 
 An MVP will consist of one force sensitive resistor controlling one solenoid which will strike one chime in the manner described above.
 
-<i>Inputs:</i> 5 x force sensitive resistors
+<u>Inputs</u>: 5 x force sensitive resistors
 
-<i>Outputs:</i> 5 x pull solenoids
+<u>Outputs</u>: 5 x pull solenoids
 
-<i>Extras:</i> External power supply for solenoids (which can't run off Arduino's 5v power)
+<u>Extras</u>: external power supply for solenoids (which can't run off Arduino's 5v power)
 
 <br />
