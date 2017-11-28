@@ -10,7 +10,6 @@ tags:
 
 Andrew Goffey not only urges us to resist a tradition which splits students of algorithms into those who encounter them in form and those who encounter them in content, a division corresponding to that between theoreticians (mostly mathematicians and computer scientists) on the one hand, and practitioners (mostly software developers) on the other, he draws an analogy between this and the semantics/syntax distinction in the study of natural language, an analogy which illuminates algorithms and points to a third way of understanding and engaging with them [1].
 
-<!--break-->
 
 This third way sidesteps characterisations formulated in terms of their formal structure or their concrete implementation details, both of which paint an inaccurate picture of algorithms as closed, self-sufficient systems. Instead it characterises them in terms of their pragmatics, appealing to the way they are used, their causal capacities, the way they operate on data and the way these operations affect and are affected by the wider social and historical context they occupy.
 
