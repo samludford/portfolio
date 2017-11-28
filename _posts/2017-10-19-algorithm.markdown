@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Algorithm
-description: Reflective summary of Andrew Goffey's Algorithm entry in the Software Studies lexicon
+description: Reflective summary of Andrew Goffey's "Algorithm" entry in the Software Studies lexicon
 date: 2017-10-19
 tags:
   - theory
