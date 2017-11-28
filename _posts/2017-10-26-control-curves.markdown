@@ -2,13 +2,13 @@
 layout: post
 title: Control Curves
 description: Using Perlin noise to break radial symmetries in openFrameworks
-date: 2017-10-26
+date: 2017-10-13
 tags:
   - creative code
 
 ---
 
-Here's the result of some experiments. I've used noise to vary the position of curve control points as they're multiplied and rotated around the origin. I like the organic feel introduced by the subtle asymmetries. 
+Here's the result of some experiments. I've used noise to vary the position of curve control points as they're multiplied and rotated around the origin. I like the organic feel introduced by the subtle asymmetries.
 
 <div class="img_row">
   <img class="col three" src="{{site.url}}/img/control_curves/c_3.png">  
