@@ -36,4 +36,4 @@ Here's the result of some experiments. I've used noise to vary the position of c
 
 <br />
 
-The openFrameworks project for this app can be <a href="https://github.com/samludford/control_curves">found on github</a>.
+<u>Code</u>: <a href="https://github.com/samludford/control_curves">https://github.com/samludford/control_curves</a>.
