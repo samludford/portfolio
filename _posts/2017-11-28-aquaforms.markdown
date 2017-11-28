@@ -10,7 +10,7 @@ tags:
 
 ---
 
-An openFrameworks app using noise and rotation to animate curves. The motion of these objects is reminiscent of marine life, especially cephalopods.
+An openFrameworks app using noise and rotation to animate curves. The motion of these objects is reminiscent of marine life.
 
 I've set a few different presets for different parameter combinations.
 
