@@ -126,7 +126,7 @@ nav.main-nav a {
 	right: 6px;
 	padding: 8px 12px;
 	/*color: #2ECC40;*/
-	color: #2ECC40;
+	color: #3D9970;
 	font-size: 13px;
 	/*font-weight: bold;*/
 	line-height: 1.35;
@@ -134,7 +134,7 @@ nav.main-nav a {
 
 }
 nav.main-nav a.cta {
-	background: #2ECC40;
+	background: #3D9970;
 	color: #fff;
 	margin-left: 12px;
 }
@@ -166,10 +166,10 @@ a,
 #post-list li:hover .dates,
 #title:hover {
 	text-decoration: none;
-	color: #2ECC40;
+	color: #3D9970;
 }
 
-p a { color: #2ECC40; }
+p a { color: #3D9970; }
 
 /*Transitions*/
 a,
