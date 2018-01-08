@@ -18,7 +18,7 @@ An FM synthesiser with two carrier oscillators and two modulator oscillators. An
 ## Source code
 
 - <a href="https://github.com/samludford/synthoscope">github</a>
-- <a href="https://github.com/samludford/synthoscope">zip</a>
+- <a href="http://samludford.github.io/assets/files/synthoscope.zip">zip</a>
 
 <br />
 

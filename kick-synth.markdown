@@ -18,7 +18,7 @@ A simple kick drum synthesiser with amplitude and FFT visualisations.
 ## Source code
 
 - <a href="https://github.com/samludford/fm_synth">github</a>
-- <a href="https://github.com/samludford/fm_synth">zip</a>
+- <a href="http://samludford.github.io/assets/files/kick_synth.zip">zip</a>
 
 <br />
 

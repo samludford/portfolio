@@ -18,7 +18,7 @@ An app for creating taiko rhythms using a circular interface. User can control t
 ## Source code
 
 - <a href="https://github.com/samludford/beat_maker">github</a>
-- <a href="https://github.com/samludford/beat_maker">zip</a>
+- <a href="http://samludford.github.io/assets/files/beat_maker.zip">zip</a>
 
 <br />
 

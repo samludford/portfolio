@@ -18,7 +18,7 @@ A generative music system based on cellular automata. An implementation of Conwa
 ## Source code
 
 - <a href="https://github.com/samludford/sound_of_life">github</a>
-- <a href="https://github.com/samludford/sound_of_life">zip</a>
+- <a href="http://samludford.github.io/assets/files/sound_of_life.zip">zip</a>
 
 <br />
 

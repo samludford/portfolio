@@ -24,7 +24,7 @@ As a real life installation, participants are encouraged to move through the spa
 ## Source code
 
 - <a href="https://github.com/samludford/music_of_the_spheres">github</a>
-- <a href="https://github.com/samludford/music_of_the_spheres">zip</a>
+- <a href="http://samludford.github.io/assets/files/music_of_the_spheres.zip">zip</a>
 
 <br />
 
