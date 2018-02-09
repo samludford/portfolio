@@ -23,6 +23,8 @@ This will involve developing a simple module which can be multiplied and combine
 - a durable enclosure
 - some way of communicating with other modules (maybe)
 
+<br />
+
 Many of these will need to be made, which means they will have to be cheap. This requirement is likely to impact heavily on all other design decisions.
 
 The next major consideration is whether the modules will change depending on what others are doing, and if so, how. If they do not communicate at all then this will reduce the complexity significantly. In this case I’ll have to find some way of programming their pattern evolution cleverly, so their independent actions add up to an interesting whole (a bit like a sonic shader). However, a problem with this is that the composition will then be the same (-ish) however they’re arranged—I feel the project would be far more interesting if the spatial arrangement of the modules affected the sounds produced.
@@ -31,6 +33,6 @@ If they do communicate, there’s two main options. One would be to network them
 
 Putting all this together, some avenues for preliminary research are:
 
-	1.	See how cheap microcontrollers go, and what the trade-offs are at the cheapest end of the market.
-	2.	Think about power supplies (can microcontrollers be powered by alkaline batteries?)
-	3.	Reuse some code from the autoreong project to start playing around with solenoid patterns, to start getting a sense of what actually sounds—if module communication isn’t going to add anything then it may not be worth bothering.
+-	See how cheap microcontrollers go, and what the trade-offs are at the cheapest end of the market.
+-	Think about power supplies (can microcontrollers be powered by alkaline batteries?)
+-	Reuse some code from the autoreong project to start playing around with solenoid patterns, to start getting a sense of what actually sounds—if module communication isn’t going to add anything then it may not be worth bothering.
