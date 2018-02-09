@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Autoreong
+title: Autoreong Concept
 description: Concept for a gamelan inspired experimental instrument
 date: 2017-11-14
 tags:

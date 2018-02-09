@@ -20,6 +20,8 @@ Requirements:
 - Only needs one pin
 - Takes external power
 
+<br />
+
 I researched several options, and by the far the most hopeful is the Attiny85. It's extremely cheap and looks like it will do everything I need it to. It doesn't have many pins, but I will not need many.
 
 Some Attiny85 resources:
