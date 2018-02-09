@@ -7,6 +7,7 @@ authors:
   - Sam Ludford
 tags:
   - theory
+published: false  
 ---
 
 Ulrik Ekman offers this perspective on what is unnerving about computational systems, like targeted advertising, AI assistants, or data-driven crowd management, that use covertly gathered information to tailor their behaviour to individual circumstances:

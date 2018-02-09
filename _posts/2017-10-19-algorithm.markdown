@@ -5,6 +5,7 @@ description: Reflective summary of Andrew Goffey's "Algorithm" entry in the Soft
 date: 2017-10-19
 tags:
   - theory
+published: false
 
 ---
 

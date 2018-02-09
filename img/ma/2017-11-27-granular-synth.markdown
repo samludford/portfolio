@@ -4,8 +4,7 @@ title: Simple Granular Synthesiser
 description: Granular sample manipulation with FFT based visualisation
 date: 2017-11-27
 tags:
-  - theory
-published: false  
+  - audiovisual
 
 ---
 

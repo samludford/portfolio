@@ -5,7 +5,7 @@ description: Notes on mind uploading, megascopes, and the role of technology in 
 date: 2018-01-21
 tags:
   - theory
-
+published: false
 ---
 
 In his work of speculative fiction The Princess Steel, written between 1908 and 1910, W. E. B. Du Bois envisages the ‘megascope’, a device capable of revealing material history via its trace in the present.

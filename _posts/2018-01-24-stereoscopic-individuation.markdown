@@ -5,6 +5,7 @@ description: Some notes on binocular vision, ontogenesis, digital seeing and unr
 date: 2018-01-24
 tags:
   - theory
+published: false  
 ---
 
 Writing in Instrumental Vision, Rose Woodcock makes an intriguing point about the difference between perception of a picture and perception in stereo-immersive virtual reality:

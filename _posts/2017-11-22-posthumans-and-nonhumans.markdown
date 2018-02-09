@@ -7,6 +7,7 @@ authors:
   - Sam Ludford
 tags:
   - theory
+published: false  
 ---
 
 Reading Richard Grusin’s introduction to The Nonhuman Turn, what struck me was a distinction he makes early on between the nonhuman and the posthuman:
