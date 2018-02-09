@@ -4,8 +4,8 @@ permalink: about/
 profile: true
 ---
 
-I'm an artist working primarily with code. Currently I'm studying for an MA in Computational Art at Goldsmith's College in London, and much of what appears on this blog is coursework related.
+I'm an artist currently studying for an MA at Goldsmiths College. This blog documents my work for a module in physical computing, and will mostly contain reports of research and experiment for developing the projects I'm working on.
 
-Originally I studied mathematics at university, and later worked as a freelance mobile developer for tech agencies and start-ups. My arts practice began with electronic and experimental music. An introduction to visual art came through involvement with the Brighton music scene, where I often performed VJ sets at club nights.
+This is just one part of my massively fragmented internet self--I can also be found on <a href="https://vimeo.com/user33006557">vimeo</a> (mostly containing graphics and audiovisual work made with openFrameworks), <a href="https://soundcloud.com/samludford">soundcloud</a> (my sounds), <a href="https://www.instagram.com/samludford/">instagram</a> (assorted crusts and slimes), and my critical studies research blog <a href="https://bodies-without-organs.tumblr.com/">Bodies Without Organs</a>, which has more of a searing-white-wall-of-miniature-text vibe.
 
-Now I incorporate computational techniques to work in a range of media, including sound, image, video, animation and physical objects. 
+Sam x
