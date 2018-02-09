@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Solenoids again
+title: Solenoids, again
 description: Reflections on the autoreong and ideas for development
 date: 2018-01-24
 tags:
