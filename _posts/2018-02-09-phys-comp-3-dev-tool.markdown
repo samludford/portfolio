@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Physical Computing 3
-description: Refections and ideas
+title: Chitter
+description: A development tool made in openFrameworks
 date: 2018-02-08
 tags:
   - physical computing
@@ -9,7 +9,7 @@ tags:
 
 {% include vimeo.html id="255016522" %}
 
-In the last post I discussed some electronic components to experiment with in producing the module (see this post for the project outline). While considering the technicalities I realised there something of a chicken and egg problem when trying to decide how to approach this project: to design the behaviour of an individual module I need to know what they'll sound like en masse, but I can't make lots of them until I know how to make one. For example, whether to make modules independent or not, hinge on whether this will add anything to the overall effect when many of them are combined. But this is a critical decision that needs to be made early on.
+In the <a href="https://samludford.github.io/2018/phys-comp-2-research/">last post</a> I discussed some electronic components to experiment with in producing the module (see <a href="https://samludford.github.io/2018/phys-comp-1-ideas/">this post</a> for the project outline). While considering the technicalities I realised there something of a chicken and egg problem when trying to decide how to approach this project: to design the behaviour of an individual module I need to know what they'll sound like en masse, but I can't make lots of them until I know how to make one. For example, whether to make modules independent or not, hinge on whether this will add anything to the overall effect when many of them are combined. But this is a critical decision that needs to be made early on.
 
 In order to try and overcome this dilemma (and to give myself something to do while waiting for components to arrive in the post) I decided to make an app which would (at least partially) simulate the effect I'm aiming at. The goal was to give myself a kind of development environment which would allow me to play around with the sonic aspects of the project without each decision coming with hardware commitments.
 

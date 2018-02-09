@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Physical Computing 1
-description: Refections and ideas
+title: Solenoids again
+description: Reflections on the autoreong and ideas for development
 date: 2018-01-24
 tags:
   - physical computing

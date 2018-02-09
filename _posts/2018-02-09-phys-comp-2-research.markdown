@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Physical Computing 2
-description: Technical research
+title: Making Things Cheap
+description: Some technical research on microcontrollers and solenoids
 date: 2018-01-31
 tags:
   - physical computing
