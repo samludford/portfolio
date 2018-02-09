@@ -62,4 +62,4 @@ The circuit will need to be powered by a battery, but both battery life and size
 
 ### Conclusion
 
-As a rough estimate it looks like I should be able to put together a basic module prototype for somewhere in the region of £10. As a starting point this is less than I was expecting, and gives me some confidence that this is a viable project. I've ordered some of these components - once they've arrvied I can start building some circuits.
+As a rough estimate it looks like I should be able to put together a basic module prototype for somewhere in the region of £10. As a starting point this is less than I was expecting, and gives me some confidence that this is a viable project. I've ordered some of these components - once they've arrived I can start building some circuits.
