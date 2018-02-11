@@ -7,7 +7,7 @@ tags:
   - physical computing
 ---
 
-In the <a href="https://samludford.github.io/2018/phys-comp-1-ideas/">last post</a> I sketched out an idea for the project I'd like to work on this term. Here I summarise some technical research I've done to follow up and start costing a prototype.
+In the <a href="https://samludford.github.io/2018/phys-comp-1-ideas/">last post</a> I sketched out an idea for the project I'd like to work on this term. Here I summarise some technical research I've conducted to follow up and start costing a prototype.
 
 ### Microcontrollers
 
@@ -54,7 +54,7 @@ Some of the cheaper 5V solenoids I found:
 
 ### Power
 
-The circuit will need to be powered by a battery, but both battery life and size will be important factors. This will just require some experimentation. I'm interested in exploring alkaline batteries, as they can potentially provide power for a very long time and tend to look a bit nicer than regular batteries (this is important since the aesthetic of the modules is all about exposed circuitry). Resources on using alkaline batteries with microcontrollers was hard to come by, but what I did find suggests it's possible:
+The circuit will need to be powered by a battery, but both battery life and size will be important factors. This will require some experimentation. I'm interested in exploring alkaline batteries, as they can potentially provide power for a very long time and tend to look a bit nicer than regular batteries (this is important since the aesthetic of the modules is all about exposed circuitry). Resources on using alkaline batteries with microcontrollers was hard to come by, but what I did find suggests it's possible:
 
 - <a href="https://www.reddit.com/r/arduino/comments/5pvv0h/power_an_arduino_uno_with_4_aa_alkaline_batteries/">Reddit: power an arduino uno with 4 aa alkaline batteries</a>
 
